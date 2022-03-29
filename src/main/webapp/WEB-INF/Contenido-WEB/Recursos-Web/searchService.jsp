@@ -1,0 +1,1 @@
+<script src="js/ConsultarDetalleServiceCliente/ConsultarService.js"></script>

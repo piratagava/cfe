@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cfe.hernan.sistema.CfeApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.6 s - in com.cfe.hernan.sistema.CfeApplicationTests
